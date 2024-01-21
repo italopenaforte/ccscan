@@ -5,7 +5,7 @@ Is not completed yet, but already solve the 5 point presents in the challenge
 
 
 Some of the things that have to improve:
- - Calculate work thread for the maximum performance and reduce the time execution
+ - _Calculate work thread for the maximum performance and reduce the time execution_
  - Implement args CIDR notation for the full range ipv4/v6 scan ports
 
 
