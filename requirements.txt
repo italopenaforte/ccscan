@@ -4,7 +4,9 @@
 #
 #    pip-compile --allow-unsafe requirements.in
 #
+scapy==2.5.0
+    # via -r requirements.in
 
 # The following packages are considered to be unsafe in a requirements file:
-pip==23.2.1
+pip==23.3.2
     # via -r requirements.in
